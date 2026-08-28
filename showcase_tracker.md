@@ -34,21 +34,21 @@ A centralized directory of all businesses, promo videos, landing pages, and outr
   * 💻 **GitHub Repository:** [github.com/snelbops/barnageera-mockup](https://github.com/snelbops/barnageera-mockup)
   * 🎨 **Stitch Project ID:** `13550365970640713012`
   * 📁 **Local Source File:** [`barnageera_mockup/index.html`](file:///Users/johnsnel/Github/VIDEO%20PRODUCTION/Promo%20Videos/barnageera_mockup/index.html)
-* **Pitch Angle:** Highlighting 31+ years of trusted local building in Skerries + direct WhatsApp lead generation.
-* **Outreach Status:** 🟡 Staged (Live & Verified — Pending Client Outreach)
+* **Outreach Status:** 🟡 Staged (Live & Verified — Ready for Outreach)
 
 ---
 
-## 3. Outreach Pipeline & Target Queue
+## 3. Active 5-Client Showcase Batch (Live Mockups & Prompts)
 
-| # | Business Name | Trade | Location | Target Visual Style | Status |
-|---|---|---|---|---|---|
-| 1 | **Barnageera Construction** | Builder | Skerries, Dublin | 3D Blueprint to Build | 🟡 Live Mockup Ready |
-| 2 | **A & L Electrical LTD** | Electrician | Dublin | Retro Neon VHS / Smart Lighting | ⚪ Queued |
-| 3 | **Cosmetic Bathrooms** | Plumber / Bathrooms | Dublin | Tactile Soft 3D / Tile-Snap | ⚪ Queued |
-| 4 | **JOB Builders** | Builder | Dublin | Clean Isometric Brickwork | ⚪ Queued |
-| 5 | **Mr. Plumber** | Plumber | Dublin | Satisfying Flow & Pipe Connect | ⚪ Queued |
-| 6 | **Ace Roofing** | Roofer | Dublin | Architectural Truss & Slate Snap | ⚪ Queued |
+All scripts saved in [`batch_video_prompts.md`](file:///Users/johnsnel/Github/VIDEO%20PRODUCTION/Promo%20Videos/batch_video_prompts.md).
+
+| # | Client Name | Trade | Visual Style | Live Website Link | Local Source | Status |
+|---|---|---|---|---|---|---|
+| 1 | **A & L Electrical LTD** | Electrician | Retro Neon VHS / Smart Lighting | [View Live](https://snelbops.github.io/barnageera-mockup/mockups/al-electrical/) | [`mockups/al-electrical/`](file:///Users/johnsnel/Github/VIDEO%20PRODUCTION/Promo%20Videos/mockups/al-electrical/index.html) | 🟡 Live Mockup Ready |
+| 2 | **Cosmetic Bathrooms** | Plumber / Bathrooms | Tactile Soft 3D / Tile-Snap | [View Live](https://snelbops.github.io/barnageera-mockup/mockups/cosmetic-bathrooms/) | [`mockups/cosmetic-bathrooms/`](file:///Users/johnsnel/Github/VIDEO%20PRODUCTION/Promo%20Videos/mockups/cosmetic-bathrooms/index.html) | 🟡 Live Mockup Ready |
+| 3 | **JOB Builders** | Builder | Clean 3D Isometric Brickwork | [View Live](https://snelbops.github.io/barnageera-mockup/mockups/job-builders/) | [`mockups/job-builders/`](file:///Users/johnsnel/Github/VIDEO%20PRODUCTION/Promo%20Videos/mockups/job-builders/index.html) | 🟡 Live Mockup Ready |
+| 4 | **Mr. Plumber** | Plumber | ASMR Pipe-Connect & Water Flow | [View Live](https://snelbops.github.io/barnageera-mockup/mockups/mr-plumber/) | [`mockups/mr-plumber/`](file:///Users/johnsnel/Github/VIDEO%20PRODUCTION/Promo%20Videos/mockups/mr-plumber/index.html) | 🟡 Live Mockup Ready |
+| 5 | **Ace Roofing** | Roofer | Architectural Truss & Slate Snap | [View Live](https://snelbops.github.io/barnageera-mockup/mockups/ace-roofing/) | [`mockups/ace-roofing/`](file:///Users/johnsnel/Github/VIDEO%20PRODUCTION/Promo%20Videos/mockups/ace-roofing/index.html) | 🟡 Live Mockup Ready |
 
 ---
 
